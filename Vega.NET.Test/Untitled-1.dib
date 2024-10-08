@@ -1,0 +1,7 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!pwsh
+
+#!value --mime-type application/vnd.vega.v5+json --name xxx --from-file /workspaces/Vega.NET/zzz.json
