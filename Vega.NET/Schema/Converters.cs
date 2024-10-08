@@ -17,6 +17,7 @@ namespace Vega.Schema
             Formatting               = Formatting.Indented,
             MetadataPropertyHandling = MetadataPropertyHandling.Ignore,
             DateParseHandling        = DateParseHandling.None,
+            ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
             Converters =
             {
                 AutosizeConverter.Singleton,
